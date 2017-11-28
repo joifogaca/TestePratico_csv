@@ -1,0 +1,12 @@
+C:\Users\joifo\OneDrive\Documentos\GitHub\TestePratico_csv\TestePratico_csv\obj\Debug\TestePratico_csv.Form1.resources
+C:\Users\joifo\OneDrive\Documentos\GitHub\TestePratico_csv\TestePratico_csv\obj\Debug\TestePratico_csv.Properties.Resources.resources
+C:\Users\joifo\OneDrive\Documentos\GitHub\TestePratico_csv\TestePratico_csv\obj\Debug\TestePratico_csv.csproj.GenerateResource.Cache
+C:\Users\joifo\OneDrive\Documentos\GitHub\TestePratico_csv\TestePratico_csv\bin\Debug\TestePratico_csv.exe.config
+C:\Users\joifo\OneDrive\Documentos\GitHub\TestePratico_csv\TestePratico_csv\bin\Debug\TestePratico_csv.exe
+C:\Users\joifo\OneDrive\Documentos\GitHub\TestePratico_csv\TestePratico_csv\bin\Debug\TestePratico_csv.pdb
+C:\Users\joifo\OneDrive\Documentos\GitHub\TestePratico_csv\TestePratico_csv\bin\Debug\EntityFramework.dll
+C:\Users\joifo\OneDrive\Documentos\GitHub\TestePratico_csv\TestePratico_csv\bin\Debug\DataStreams.xml
+C:\Users\joifo\OneDrive\Documentos\GitHub\TestePratico_csv\TestePratico_csv\bin\Debug\EntityFramework.xml
+C:\Users\joifo\OneDrive\Documentos\GitHub\TestePratico_csv\TestePratico_csv\obj\Debug\TestePratico_csv.exe
+C:\Users\joifo\OneDrive\Documentos\GitHub\TestePratico_csv\TestePratico_csv\obj\Debug\TestePratico_csv.pdb
+C:\Users\joifo\OneDrive\Documentos\GitHub\TestePratico_csv\TestePratico_csv\obj\Debug\TestePratico_csv.csprojResolveAssemblyReference.cache

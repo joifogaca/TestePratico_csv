@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="csvModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Drenagem_superficial">
+      <EntityTypeMapping TypeName="csvModel.Drenagem_superficial">
+        <MappingFragment StoreEntitySet="Drenagem_superficial">
+          <ScalarProperty Name="CodigoRegistro" ColumnName="CodigoRegistro" />
+          <ScalarProperty Name="Atributo" ColumnName="Atributo" />
+          <ScalarProperty Name="Valor" ColumnName="Valor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

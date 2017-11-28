@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="csvModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="csvEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Drenagem_superficial" EntityType="csvModel.Drenagem_superficial" />
+  </EntityContainer>
+  <EntityType Name="Drenagem_superficial">
+    <Key>
+      <PropertyRef Name="CodigoRegistro" />
+      <PropertyRef Name="Atributo" />
+    </Key>
+    <Property Name="CodigoRegistro" Type="String" Nullable="false" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="Atributo" Type="String" Nullable="false" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="Valor" Type="String" MaxLength="Max" Unicode="false" FixedLength="false" />
+  </EntityType>
+</Schema>
